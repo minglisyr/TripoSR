@@ -1,5 +1,5 @@
 omegaconf==2.3.0
-Pillow==10.1.0
+Pillow
 einops==0.7.0
 git+https://github.com/tatsy/torchmcubes.git
 transformers==4.35.0
@@ -9,5 +9,5 @@ onnxruntime
 huggingface-hub
 imageio[ffmpeg]
 gradio
-xatlas==0.0.9
+xatlas
 moderngl==5.10.0
